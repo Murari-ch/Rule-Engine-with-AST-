@@ -120,17 +120,6 @@ json
 
 { "result": true }
 
-# Project Structure
-
-.
-├── api.py                  # Main application file
-├── logic.py                # Rule parsing and evaluation logic
-├── requirements.txt        # Project dependencies
-├── templates/
-│   └── index.html          # Frontend HTML file
-├── static/
-│   └── style.css           # CSS for frontend styling
-└── rules.db                # SQLite database file
 
 # Troubleshooting
 Server Doesn’t Start:
