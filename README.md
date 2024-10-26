@@ -1,18 +1,9 @@
 # Rule-Engine-with-AST-
 Rule Engine with Abstract Syntax Tree (AST)
 A Flask-based rule engine designed to evaluate user eligibility based on a set of predefined rules. The engine parses rules through an Abstract Syntax Tree (AST), enabling customizable rule creation, evaluation, and storage.
+![Screenshot 2024-10-26 094817](https://github.com/user-attachments/assets/8a72dd3f-9969-45cd-9a14-9cc9ead2dfae)
 
-# Project Structure
-│
-├── AST/
-│   ├── templates/
-│   │   ├── index.html        # HTML template files
-│   ├── static/
-│   │   ├── styles.css        # CSS and JavaScript files
-│   ├── api.py                # Main Flask application
-│   ├── logic.py              # Core logic for rule evaluation
-│   ├── requirements.txt      # Project dependencies
-│   └── rules.db              # SQLite database containing rules
+
 
 
 # Key Components
