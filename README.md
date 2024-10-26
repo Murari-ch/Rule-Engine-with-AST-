@@ -27,8 +27,7 @@ Python 3.8+: Ensure you have Python installed. You can check the version with:
 # python --version
 SQLite: SQLite is generally pre-installed with Python, but you can confirm this by running:
 
-
-# sqlite3 --version
+sqlite3 --version
 Setup
 
 # Clone the Repository
